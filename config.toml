@@ -1,0 +1,16 @@
+[insim]
+host = "127.0.0.1"
+port = 29999
+admin = ""
+
+[ai]
+names = [
+  "Rain 1",
+  "Rain 2",
+  "Rain 3",
+  "Rain 4",
+  "Rain 5",
+  "Rain 6",
+  "Rain 7",
+  "Rain 8",
+]
